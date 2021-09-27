@@ -1,0 +1,10 @@
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\bin\Debug\Unifacs Notas.exe.config
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\bin\Debug\Unifacs Notas.exe
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\bin\Debug\Unifacs Notas.pdb
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.AssemblyReference.cache
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs_Notas.Form1.resources
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs_Notas.Properties.Resources.resources
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.GenerateResource.cache
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.CoreCompileInputs.cache
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.exe
+C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.pdb
