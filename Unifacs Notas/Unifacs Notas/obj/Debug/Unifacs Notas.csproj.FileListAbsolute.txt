@@ -8,3 +8,13 @@ C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Nota
 C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.CoreCompileInputs.cache
 C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.exe
 C:\Users\Sulemam\source\repos\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.pdb
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\bin\Debug\Unifacs Notas.exe.config
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\bin\Debug\Unifacs Notas.exe
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\bin\Debug\Unifacs Notas.pdb
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.AssemblyReference.cache
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs_Notas.Form1.resources
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs_Notas.Properties.Resources.resources
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.GenerateResource.cache
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.csproj.CoreCompileInputs.cache
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.exe
+E:\GitHub\CalculadoraUnifacs\Unifacs Notas\Unifacs Notas\obj\Debug\Unifacs Notas.pdb
