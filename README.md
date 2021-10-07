@@ -38,5 +38,11 @@ LINGUAGEM  C#
 
 ## TESTANDO APLICAÇÃO
 
+-Acessar "Rodar  aplicação"
+-Baixar arquivo "Unifacs Notas"
+-Execultar na maquina
+OBS.: DESCONSIDERAR O AVISO DE POSSIVÉL VIRUS E AUTORIZAR O WINDOWS A RODAR A APLICAÇÃO.
+
 
 ## CONSIDERAÇÕES FINAIS
+Esta aplicação é simples mas de muita ultilidade. 
