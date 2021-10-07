@@ -3,8 +3,7 @@
 Durante o  curso na faculdade varias pessoas  ficam confusa  na hora de 
 calcular suas notas no final de cada semestre .
 
-Buscando ajudar meus colegas de faculdade  desenvolvir esta aplicação  desktop 
-simples, porem últil . 
+Buscando ajudar meus colegas de faculdade  desenvolvir esta aplicação  desktop.
 
 ## INTERFACE DA APLICAÇÃO
 
