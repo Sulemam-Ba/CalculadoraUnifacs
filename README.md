@@ -14,7 +14,7 @@ A interface simples para o usuário inserir  os valores.
 
 ![foto da interface 2](https://github.com/Sulemam-Ba/CalculadoraUnifacs/blob/main/foto%20interface%202.PNG)
 
-O usuário  vizualiza  sua aprovação  apos  os calculo  efeutuados  automaticamente  após inserir nostas .
+O usuário  vizualiza  sua aprovação  apos  os calculos  efetuado automáticamente  após inserir notas.
 
 
 ![fotos da interface  3 ](https://github.com/Sulemam-Ba/CalculadoraUnifacs/blob/main/foto%20interface%203.PNG)
