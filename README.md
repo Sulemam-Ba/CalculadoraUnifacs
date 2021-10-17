@@ -22,7 +22,7 @@ O usuário  vizualiza  sua aprovação  apos  os calculos  efetuado automáticam
 O usuário vizualiza sua reprovação apos os calculos efetuados automaticamente  após  inserir  notas.
 
 
-## COSTRUÇÃO DA APLICAÇÃO(AMOSTRA)
+## CONSTRUÇÃO DA APLICAÇÃO(AMOSTRA)
 
 ![foto codigo](https://github.com/Sulemam-Ba/CalculadoraUnifacs/blob/main/foto%20codigo.PNG)
 
